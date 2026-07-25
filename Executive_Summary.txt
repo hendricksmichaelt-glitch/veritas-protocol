@@ -67,11 +67,11 @@ The Veritas Protocol IP is available for acquisition. This includes:
 
 LIVE DEMO
 
-[Insert your Render.com link here once deployed]
+https://veritas-protocol-5ata.onrender.com
 
 SOURCE CODE
 
-https://github.com/yourusername/veritas-protocol
+https://github.com/hendricksmichaelt-glitch/veritas-protocol
 
 CONTACT
 

@@ -50,7 +50,7 @@ Veritas is a cryptographic watermarking protocol that allows any platform to ins
 
 
 
-\[Insert your Render.com link here once deployed]
+https://veritas-protocol-5ata.onrender.com
 
 
 
@@ -58,5 +58,5 @@ Veritas is a cryptographic watermarking protocol that allows any platform to ins
 
 
 
-For acquisition inquiries, please contact: \[hendricksmichaelt@gmail.com]
+For acquisition inquiries, please contact: hendricksmichaelt@gmail.com
 
