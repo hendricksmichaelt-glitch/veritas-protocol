@@ -67,7 +67,7 @@ The Veritas Protocol IP is available for acquisition. This includes:
 
 LIVE DEMO
 
-[https://veritas-protocol-5ata.onrender.com]
+https://veritas-protocol-5ata.onrender.com
 
 SOURCE CODE
 
